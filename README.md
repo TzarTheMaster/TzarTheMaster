@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TzarTheMaster
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Coding
-- 💞️ I’m looking to collaborate on ... Coding
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ... ascceogeneral@gmail.com 
 - 😄 Pronouns: ... Male
 - ⚡ Fun fact: ... 
